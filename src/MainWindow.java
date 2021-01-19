@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 /**
- * Created by infuntis on 15/01/17.
+ * Created by Ella
  */
 public class MainWindow extends JFrame {
 
